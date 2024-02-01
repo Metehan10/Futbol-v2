@@ -1,5 +1,6 @@
 # Futbol-v2
 Bu çalışma daha önce yapmış olduğum Futbol-Analiz adlı çalışmamın genişletilmiş versiyonudur.
+
 ---------------------------------------------------------------------------------------------
 • Datasetimde Avrupada bulunan 5 büyük ligten seçilmiş 3 farklı takımın, 3 farklı oyuncunun AD-UYRUK-BOY-MEVKI-OYNADIGI_TAKIM-OYNADIGI_LIG-KULLANILAN_AYAK-DOGUM_TARIHI-YAS-YAS_GRUP-OYNADIGI_MAC_SAYISI-GOL_SAYISI-ASIST_SAYISI	OYNADIGI_SURE-OYNAN_DOKSAN_DAKIKA_SAYISI-OYNANAN_DOKSAN_DAKIKA_BASINA_GOL-xG-2020_piyasa_değeri-2021_piyasa_değeri-2022_piyasa_değeri-2023_piyasa_değeri-EN_YUKSEK_PIYASA_DEGERI gibi 22 farklı değişkeni bulunmaktadır.
 
